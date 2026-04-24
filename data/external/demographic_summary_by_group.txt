@@ -1,0 +1,41 @@
+Group: CN_Ab.neg
+N subjects: 172
+Mean age: 73.116
+Std age: 7.704
+Female count: 95
+Male count: 77
+
+Group: CN_Ab.pos
+N subjects: 129
+Mean age: 75.454
+Std age: 7.599
+Female count: 83
+Male count: 46
+
+Group: MCI_Ab.neg
+N subjects: 79
+Mean age: 75.957
+Std age: 8.027
+Female count: 32
+Male count: 47
+
+Group: MCI_Ab.pos
+N subjects: 95
+Mean age: 76.007
+Std age: 7.429
+Female count: 41
+Male count: 54
+
+Group: Dementia_Ab.neg
+N subjects: 7
+Mean age: 75.371
+Std age: 4.903
+Female count: 3
+Male count: 4
+
+Group: Dementia_Ab.pos
+N subjects: 50
+Mean age: 79.138
+Std age: 8.970
+Female count: 21
+Male count: 29

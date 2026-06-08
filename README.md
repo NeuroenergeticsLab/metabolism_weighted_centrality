@@ -1,4 +1,4 @@
-# Metabolic Weighted Centrality
+# Metabolism Weighted Centrality
 
 This repository contains the code to reproduce all results and figures related to the paper:
 "Metabolism-weighted brain connectome reveals synaptic integration and vulnerability to neurodegeneration", by Mahnaz Ashrafi, Laura Fraticelli, Gabriel Castrillón, Valentin Riedl (2025).
